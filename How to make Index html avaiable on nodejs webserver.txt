@@ -1,0 +1,14 @@
+#######  How to run html file using node js    ########
+
+
+Just install http-server globally
+
+npm install -g http-server
+
+where ever you need to run a html file run the command http-server For ex: your html file is in /home/project/index.html you can do /home/project/$ http-server
+
+That will give you a link to accessyour webpages: http-server
+Starting up http-server, serving ./
+Available on:
+  http://127.0.0.1:8080
+  http://192.168.0.106:8080
